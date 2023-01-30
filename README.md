@@ -15,7 +15,7 @@ A ideia do aplicativo é que o usuário possa criar hábitos e vinculá-los a di
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). As versões utilizadas nesse projeto são: Git version 2.39.0 e Node v18.13.0.
 
 > ⚠ Antes de executar o frontend mobile, verificar o IP da sua máquina e substituir em baseURL no arquivo de setup do axios presente na pasta lib dos respectivos projetos. 
->> Dica: O IP é mostrado ao rodar o próprio comando expo start.
+>> Dica: O IP é mostrado ao rodar o próprio comando `expo start`.
 
 ### Rodando o Servidor (Back End)
 
